@@ -29,3 +29,4 @@ If a keyword is not used the default result will be :
 4. for do-what-it-says there is no keyword to begin with 
 
 
+Every search will be stored inside log.txt
