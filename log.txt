@@ -1,0 +1,355 @@
+
+spotify-this-song DNA
+Artist(s): Kendrick Lamar
+Song Name: DNA.
+Preview Link: null
+Album: DAMN.
+spotify-this-song Fake Love
+Artist(s): Drake
+Song Name: Fake Love
+Preview Link: null
+Album: More Life
+spotify-this-song Red Flavor
+Artist(s): Red Velvet
+Song Name: 빨간 맛 Red Flavor
+Preview Link: https://p.scdn.co/mp3-preview/a4b1bcfad224a04c35da8f124a9a5a92290694a2?cid=8fbd069cdd6d4aa2971445ca9052aeae
+Album: The Red Summer - Summer Mini Album
+do-what-it-says undefined
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8fbd069cdd6d4aa2971445ca9052aeae
+move-this undefined
+movie-this Titanic
+Title: Titanic
+Release Year: 1997
+Rotten Tomatoes Rating: 89%
+Country: USA
+IMDB Rating: 7.8
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Cast: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+Language: English, Swedish
+concert this BTS
+concert-this BTS
+Venue Name: Rose Bowl Stadium
+Venue Location: Pasadena, United States
+Venue Location: Pasadena, United States
+Venue Name: Rose Bowl Stadium
+Venue Location: Chicago, United States
+Date of the Event: 05/11/2019
+Venue Name: Soldier Field
+Venue Location: Chicago, United States
+Date of the Event: 05/12/2019
+Venue Name: MetLife Stadium
+Venue Location: East Rutherford, United States
+Date of the Event: 05/05/2019
+Date of the Event: 05/04/2019
+Venue Location: East Rutherford, United States
+Date of the Event: 05/19/2019
+Venue Name: Wembley Stadium
+Venue Location: London, United Kingdom
+Date of the Event: 06/01/2019
+Venue Name: Wembley Stadium
+Venue Location: London, United Kingdom
+Date of the Event: 06/02/2019
+Venue Name: Stade de France
+Venue Location: Paris, France
+Date of the Event: 06/07/2019
+Venue Name: Stade de France
+Venue Location: Paris, France
+Date of the Event: 06/08/2019
+Venue Name: MetLife Stadium
+Venue Name: Soldier Field
+Date of the Event: 05/18/2019
+spotify-this-song Toxic
+Artist(s): Britney Spears
+Album: In The Zone
+Preview Link: https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=8fbd069cdd6d4aa2971445ca9052aeae
+Song Name: Toxic
+concert-this ariana grande
+Venue Name: Coachella Valley Music and Arts Festival
+**************************************************************
+Venue Location: Indio, United States
+Date of the Event: 04/14/2019
+**************************************************************
+Venue Name: Coachella Valley Music and Arts Festival
+Venue Location: Indio, United States
+Date of the Event: 04/21/2019
+**************************************************************
+Venue Name: Rogers Place
+Venue Location: Edmonton, Canada
+Date of the Event: 04/25/2019
+**************************************************************
+Venue Name: Rogers Arena
+Venue Location: Vancouver, Canada
+Date of the Event: 04/27/2019
+**************************************************************
+Venue Name: Moda Center
+Venue Location: Portland, United States
+Date of the Event: 04/30/2019
+**************************************************************
+Venue Name: SAP Center
+Venue Location: San Jose, United States
+Date of the Event: 05/02/2019
+**************************************************************
+Venue Name: Golden 1 Center
+Venue Location: Sacramento, United States
+Date of the Event: 05/03/2019
+**************************************************************
+Venue Name: STAPLES Center
+Venue Location: Los Angeles, United States
+Date of the Event: 05/06/2019
+**************************************************************
+Venue Name: Staples Center
+Venue Location: Los Angeles, United States
+Date of the Event: 05/07/2019
+**************************************************************
+Venue Name: The Forum
+Venue Location: Los Angeles, United States
+Date of the Event: 05/10/2019
+**************************************************************
+Venue Name: T-Mobile Arena
+Venue Location: Las Vegas, United States
+Date of the Event: 05/11/2019
+**************************************************************
+Venue Name: Talking Stick Resort Arena
+Venue Location: Phoenix, United States
+Date of the Event: 05/14/2019
+Venue Name: AT&T Center
+**************************************************************
+Venue Location: San Antonio, United States
+Date of the Event: 05/17/2019
+**************************************************************
+Venue Name: Toyota Center
+Date of the Event: 05/19/2019
+Venue Location: Houston, United States
+**************************************************************
+Venue Name: American Airlines Center
+Venue Location: Dallas, United States
+Date of the Event: 05/21/2019
+**************************************************************
+Venue Name: Chesapeake Energy Arena
+Venue Location: Oklahoma City, United States
+Date of the Event: 05/23/2019
+**************************************************************
+Venue Name: Smoothie King Center
+Venue Location: New Orleans, United States
+Date of the Event: 05/25/2019
+**************************************************************
+Venue Name: Amalie Arena
+Venue Location: Tampa, United States
+Date of the Event: 05/28/2019
+**************************************************************
+Venue Name: Amway Center
+Venue Location: Orlando, United States
+Date of the Event: 05/29/2019
+**************************************************************
+Venue Name: American Airlines Arena
+Venue Location: Miami, United States
+Date of the Event: 05/31/2019
+**************************************************************
+Venue Name: American Airlines Arena
+Venue Location: Miami, United States
+Date of the Event: 06/01/2019
+**************************************************************
+Venue Name: United Center
+Venue Location: Chicago, United States
+Date of the Event: 06/04/2019
+**************************************************************
+Venue Name: United Center
+Venue Location: Chicago, United States
+Date of the Event: 06/05/2019
+**************************************************************
+Venue Name: Bridgestone Arena
+Venue Location: Nashville, United States
+Date of the Event: 06/07/2019
+**************************************************************
+Venue Name: State Farm Arena
+Venue Location: Atlanta, United States
+Date of the Event: 06/08/2019
+**************************************************************
+Venue Name: Spectrum Center
+Venue Location: Charlotte, United States
+Date of the Event: 06/10/2019
+**************************************************************
+Venue Name: PPG Paints Arena
+Venue Location: Pittsburgh, United States
+Date of the Event: 06/12/2019
+**************************************************************
+Venue Name: Barclays Center
+Venue Location: Brooklyn, United States
+Date of the Event: 06/14/2019
+**************************************************************
+Venue Name: Barclays Center
+Venue Location: Brooklyn, United States
+Date of the Event: 06/15/2019
+**************************************************************
+Venue Name: Madison Square Garden
+Venue Location: New York, United States
+Date of the Event: 06/18/2019
+**************************************************************
+Venue Name: Madison Square Garden
+Venue Location: New York, United States
+Date of the Event: 06/19/2019
+**************************************************************
+Venue Name: Capital One Arena
+Venue Location: Washington, United States
+Date of the Event: 06/21/2019
+**************************************************************
+Venue Name: TD Garden
+Venue Location: Boston, United States
+Date of the Event: 06/22/2019
+**************************************************************
+Venue Name: Wells Fargo Center
+Venue Location: Philadelphia, United States
+Date of the Event: 06/24/2019
+**************************************************************
+Venue Name: Scotiabank Arena
+Venue Location: Toronto, Canada
+Date of the Event: 06/26/2019
+**************************************************************
+Venue Name: Bankers Life Fieldhouse
+Venue Location: Indianapolis, United States
+Date of the Event: 06/29/2019
+**************************************************************
+Venue Name: The Schottenstein Center
+Venue Location: Columbus, United States
+Date of the Event: 07/01/2019
+**************************************************************
+Venue Name: Fiserv Forum
+Venue Location: Milwaukee, United States
+Date of the Event: 07/05/2019
+**************************************************************
+Venue Name: Enterprise Center
+Venue Location: St. Louis, United States
+Date of the Event: 07/06/2019
+**************************************************************
+Venue Name: Xcel Energy Center
+Venue Location: St Paul, United States
+Date of the Event: 07/08/2019
+**************************************************************
+Venue Name: Pepsi Center
+Venue Location: Denver, United States
+Date of the Event: 07/11/2019
+Venue Name: Vivint Smart Home Arena
+**************************************************************
+Venue Location: Salt Lake City, United States
+Date of the Event: 07/13/2019
+**************************************************************
+Venue Name: The O2 Arena
+Date of the Event: 08/17/2019
+Venue Location: London, United Kingdom
+Venue Name: The O2
+**************************************************************
+Date of the Event: 08/19/2019
+Venue Name: The O2 Arena
+Date of the Event: 08/20/2019
+**************************************************************
+Venue Name: Ziggo Dome
+Venue Location: Amsterdam, Netherlands
+Date of the Event: 08/23/2019
+Venue Name: Ziggo Dome
+Venue Location: Amsterdam, Netherlands
+Date of the Event: 08/24/2019
+**************************************************************
+Venue Name: AccorHotels Arena
+Venue Location: Paris, France
+Date of the Event: 08/27/2019
+**************************************************************
+**************************************************************
+Venue Name: AccorHotels Arena
+Venue Location: Paris, France
+Date of the Event: 08/28/2019
+**************************************************************
+Venue Name: Sportpaleis Antwerpen
+Venue Location: Antwerpen, Belgium
+Date of the Event: 08/30/2019
+**************************************************************
+Venue Name: Lanxess Arena
+Venue Location: Köln, Germany
+Date of the Event: 09/01/2019
+**************************************************************
+Venue Name: Stadthalle
+Venue Location: Vienna, Austria
+Date of the Event: 09/03/2019
+**************************************************************
+Venue Name: Barclaycard Arena
+Venue Location: Hamburg, Germany
+Date of the Event: 09/05/2019
+**************************************************************
+Venue Name: O2 arena
+Venue Location: Praha 9, Czech Republic
+Date of the Event: 09/08/2019
+**************************************************************
+Venue Name: Tauron Arena
+Venue Location: Kraków, Poland
+Date of the Event: 09/09/2019
+**************************************************************
+Venue Name: Ziggo Dome
+Venue Location: Amsterdam, Netherlands
+Date of the Event: 09/11/2019
+**************************************************************
+Venue Name: Arena Birmingham
+Venue Location: Birmingham, United Kingdom
+Date of the Event: 09/14/2019
+**************************************************************
+Venue Name: Arena Birmingham
+Venue Location: Birmingham, United Kingdom
+Date of the Event: 09/15/2019
+**************************************************************
+Venue Name: The SSE Hydro
+Venue Location: Glasgow, United Kingdom
+Date of the Event: 09/17/2019
+**************************************************************
+Venue Name: FlyDSA Arena
+Venue Location: Sheffield, United Kingdom
+Date of the Event: 09/19/2019
+**************************************************************
+Venue Name: 3Arena
+Venue Location: Dublin, Ireland
+Date of the Event: 09/22/2019
+**************************************************************
+Venue Name: 3Arena
+Venue Location: Dublin, Ireland
+Date of the Event: 09/23/2019
+**************************************************************
+Venue Name: 3Arena
+Venue Location: Dublin, Ireland
+Date of the Event: 09/25/2019
+**************************************************************
+Venue Name: Barclaycard Arena
+Venue Location: Hamburg, Germany
+Date of the Event: 09/28/2019
+**************************************************************
+Venue Name: Royal Arena
+Venue Location: Copenhagen, Denmark
+Date of the Event: 10/01/2019
+**************************************************************
+Venue Name: Telenor Arena
+Venue Location: Oslo, Norway
+Date of the Event: 10/03/2019
+**************************************************************
+Venue Name: Hartwall Arena
+Venue Location: Hki, Finland
+Date of the Event: 10/05/2019
+Venue Location: London, United Kingdom
+**************************************************************
+Venue Name: Ericsson Globe
+Venue Location: Stockholm, Sweden
+Date of the Event: 10/07/2019
+Venue Name: Mercedes-Benz-Arena
+Venue Location: Berlin, Germany
+Date of the Event: 10/10/2019
+**************************************************************
+Venue Name: Hallenstadion
+Venue Location: Zürich, Switzerland
+Date of the Event: 10/13/2019
+**************************************************************
+Venue Location: London, United Kingdom
+**************************************************************
+spotify-this-song YOLO
+**************************************************************
+Artist(s): Sreerama Chandra
+Song Name: Yolo
+Preview Link: https://p.scdn.co/mp3-preview/393db98dc69a1e5d40af50fba58661c60182accd?cid=8fbd069cdd6d4aa2971445ca9052aeae
+Album: All Is Well
